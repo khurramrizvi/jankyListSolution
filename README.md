@@ -1,16 +1,9 @@
 # janky_list
 
-A new Flutter application to demonstrate how a long list is so janky on iOS device
+## Problem 
+This solution is proposed on
+issue as on reddit post: https://www.reddit.com/r/FlutterDev/comments/m8bz73/im_about_to_lose_my_job_due_to_the_janky_long/?sort=new
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A new Flutter application to demonstrate how a long list can be made jank free on iOS devices
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
